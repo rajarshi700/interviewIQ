@@ -8,6 +8,7 @@ The platform analyzes an uploaded PDF resume, generates personalized interview q
 
 The application also includes Google authentication, interview history, a credit-based usage system, and Razorpay payment integration.
 
+website: https://ai-hire-booster.onrender.com/
 ---
 
 ## ✨ Highlights
